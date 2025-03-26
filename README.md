@@ -45,6 +45,4 @@ pip install -r requirements.txt
 # Run Flask app
 python src/app.py
 
-## 📸 Screenshots
-![Homepage](images/home.png)
-![Panic Button Trigger](images/panic_button.png)
+
