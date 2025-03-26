@@ -28,7 +28,7 @@ This project explores the use of **Convolutional Neural Networks (CNNs)** and se
 ---
 
 ## 📂 Folder Structure
-
+├── README.md ├── seminar-report.md ├── requirements.txt ├── src/ │ ├── cnn_model.py │ ├── preprocessing.py │ └── app.py └── images/ └── banner.png
 
 ---
 
