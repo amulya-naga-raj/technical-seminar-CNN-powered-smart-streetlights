@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="images/banner.png" alt="Smart Street Light Banner" />
-</p>
 
 # Smart & Adaptive Street Light System Using CNN
 
