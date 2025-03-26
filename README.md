@@ -1,4 +1,4 @@
-
+<img src="banner.png" alt="Smart & Adaptive Street Light System" style="width:100%;"/>
 # Smart & Adaptive Street Light System Using CNN
 
 🚦 A smart, CNN-powered street lighting system that dynamically adjusts brightness, detects motion, monitors safety, and sends emergency alerts — all while saving energy and making streets safer.
