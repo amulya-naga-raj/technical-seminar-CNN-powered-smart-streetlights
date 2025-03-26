@@ -6,7 +6,7 @@
 ---
 
 ## 📌 Overview
-
+ 
 This project explores the use of **Convolutional Neural Networks (CNNs)** and sensors to build an **AI-powered street light system**. It includes:
 
 - Motion-based lighting adjustments
@@ -44,5 +44,7 @@ pip install -r requirements.txt
 
 # Run Flask app
 python src/app.py
+
+## 📸 Screenshots
 ![Homepage](images/home.png)
 ![Panic Button Trigger](images/panic_button.png)
