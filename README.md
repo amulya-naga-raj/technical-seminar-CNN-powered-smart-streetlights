@@ -49,33 +49,12 @@ pip install -r requirements.txt
 # Run Flask app (simulated interface)
 python src/app.py
 
+## 📑 Seminar Report & Slides
 
-🎥 View the seminar presentation slides:
-Smart_Streetlight_Seminar_PPT.pptx
-📄 Read the full technical seminar paper:
-Technical seminar report AMULYA N RAJ.pdf
-
-📸 Screenshots 
-Upload system snapshots (e.g., light ON/OFF, panic button trigger, camera view) to /images and reference them below:
-
-markdown
-Copy
-Edit
-![Light ON](images/light_on.png)
-![Panic Button](images/panic_button.png)
-
-🙌 Acknowledgments
-This project was developed as part of the 8th Semester Technical Seminar at
-🎓 Adichunchanagiri Institute of Technology, Chikkamagaluru
-Under the guidance of Mrs. Keerthishree B.T, Dept. of CSE
-
-📬 Connect with Me
-GitHub: @amulya-naga-raj
-
-Email: amulyanagaraj66@gmail.com
+📄 [View Seminar Report (PDF)](./Technical%20seminar%20report%20AMULYA%20N%20RAJ.pdf)  
+🎥 [View Presentation Slides (PPT)](./Smart_Streetlight_Seminar_PPT.pptx)
 
 
----
 
 
 
