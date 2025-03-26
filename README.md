@@ -35,6 +35,10 @@ Copy
 Edit
 
 ---
+## 📑 Seminar Report & Slides
+
+📄 [View Seminar Report (PDF)](./Technical_Seminar_Report.pdf)  
+🎥 [View Presentation Slides (PPT)](./Smart_Streetlight_Seminar_PPT.pptx)
 
 ## 💻 How to Run (Simulated)
 
@@ -49,10 +53,7 @@ pip install -r requirements.txt
 # Run Flask app (simulated interface)
 python src/app.py
 
-## 📑 Seminar Report & Slides
 
-📄 [View Seminar Report (PDF)](./Technical%20seminar%20report%20AMULYA%20N%20RAJ.pdf)  
-🎥 [View Presentation Slides (PPT)](./Smart_Streetlight_Seminar_PPT.pptx)
 
 
 
